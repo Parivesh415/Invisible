@@ -1,0 +1,40 @@
+*{
+    margin: center;
+    padding: center;
+    box-sizing: border-box;
+    
+  }
+  body{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 90.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 90.71%),
+    linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 90.71%);
+  }
+  .container{
+    max-width: max-content;
+    padding: 28px 10px 30px;
+    margin: 70px auto;
+    background :white;
+    border-radius: 7px;
+    box-shadow: 10px 10px 30px rgb(5, 155, 255);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+  }
+  #Parivesh{
+    text-align: center;
+    color: rgba(0, 145, 19, 0.973);
+    font-weight:bolder;
+    font-family: cursive
+
+  }
+  #hide-btn{
+    text-align:center;
+    height: 30px;
+    justify-content: center;
+}
+.row{
+  position: relative;
+  place-items: center;
+}
