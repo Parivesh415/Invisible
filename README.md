@@ -4,11 +4,11 @@ A Small but Interesting Code to make a given code Dissapear with "Double" click 
 
 The given below image depicts the magic which is shown below
 <br>
-<img src ="hide.jpg" style="height:250px;width:250px">
+<img src ="hide.jpg" style="height:250px;width:450px">
 <hr>
 The given below pic shows the output 
 <br>
-<img src="jadu.jpg" style="height:250px;width:250px">
+<img src="jadu.jpg" style="height:250px;width:350px">
 <hr>
 
 # Help And Note -
